@@ -32,7 +32,6 @@ table.addEventListener("click", event => {
 
   cancelButton.addEventListener("click", () => {
     elem.innerHTML = originalTDContent;
-    textArea.remove();
   });
 
   const buttonContainer = document.createElement("div");
