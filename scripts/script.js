@@ -2,7 +2,6 @@
 
 const table = document.getElementById("bagua-table");
 
-/* your code */
 table.addEventListener("click", event => {
   const elem = event.target;
   if (!elem.closest("td")) {
