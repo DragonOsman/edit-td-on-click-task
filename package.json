@@ -1,0 +1,31 @@
+{
+  "name": "edit-td-on-click_task",
+  "version": "1.0.0",
+  "description": "Javascript.info Chapter \"Focusing: focus/blur\" task 2 \"Edit TD on Click\" solution",
+  "main": "scripts/script.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DragonOsman/edit-td-on-click-task.git"
+  },
+  "keywords": [
+    "javascript.info-task-solution",
+    "edit-td",
+    "solution",
+    "javascript.info"
+  ],
+  "author": "Osman Zakir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DragonOsman/edit-td-on-click-task/issues"
+  },
+  "homepage": "https://github.com/DragonOsman/edit-td-on-click-task#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.7.2",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.19.1",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
